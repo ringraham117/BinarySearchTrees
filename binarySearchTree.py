@@ -188,7 +188,7 @@ class binarySearchTree:
 # Function to randomly populate a BST
 def populateBST(tree):
 
-    # For loop to run 100 times
+    # For loop to run 50000 times
     # Uses '_' since the loop control variable is not used in the loop
     for _ in range(50000):
 
